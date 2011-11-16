@@ -28,6 +28,7 @@ hi Search                        guifg=#ffffff         guibg=#2050d0            
 hi IncSearch                     guifg=#b0ffff         guibg=#2050d0                                                     ctermfg=darkblue    ctermbg=gray
 
 hi SpecialKey                    guifg=#00eeff                                                                           ctermfg=darkcyan
+hi SpecialKey                    guifg=#505050                                                                           ctermfg=darkgray
 hi Directory                     guifg=#00eeff                                                                           ctermfg=cyan
 hi Title                         guifg=#ff40ff                             gui=none                                      ctermfg=magenta                         cterm=bold
 hi WarningMsg                    guifg=red             guibg=#cccccc                                                     ctermfg=red
