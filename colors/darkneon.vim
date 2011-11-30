@@ -37,6 +37,7 @@ hi ModeMsg                       guifg=#22cce2                                  
 hi MoreMsg                                                                                                               ctermfg=darkgreen
 hi Question                      guifg=green                               gui=none                                      ctermfg=green                           cterm=none
 hi NonText                       guifg=#6090ff         guibg=#000000                                                     ctermfg=darkblue
+hi NonText                       guifg=#505050         guibg=#000000                                                     ctermfg=darkblue
 
 hi StatusLine                    guifg=#60ff60         guibg=#505050       gui=bold                                      ctermfg=black       ctermbg=green       cterm=none                   term=bold
 hi StatusLineNC                  guifg=#ff6060         guibg=#505050       gui=bold                                      ctermfg=black       ctermbg=blue        cterm=none                   term=bold
