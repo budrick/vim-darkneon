@@ -42,6 +42,11 @@ hi NonText                       guifg=#505050         guibg=#000000            
 hi StatusLine                    guifg=#60ff60         guibg=#505050       gui=bold                                      ctermfg=black       ctermbg=green       cterm=none                   term=bold
 hi StatusLineNC                  guifg=#ff6060         guibg=#505050       gui=bold                                      ctermfg=black       ctermbg=blue        cterm=none                   term=bold
 
+hi Pmenu                         guifg=#e0e0e0         guibg=#303030
+hi PmenuSel                      guifg=#000000         guibg=#60ff60
+hi PmenuSbar                                           guibg=#261434
+hi PmenuThumb                    guifg=#60ff60
+
 hi VertSplit                     guifg=#6090ff         guibg=#505050       gui=none                                      ctermfg=blue        ctermbg=black       cterm=none                   term=none
 hi SignColumn                    guifg=#90f020         guibg=#3b3b3b                                                     ctermfg=darkblue
 
