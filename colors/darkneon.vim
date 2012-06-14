@@ -1,9 +1,9 @@
 " Vim color file
 " Maintainer:   Matt Cegielka <matt@mudbrick.org>
-" Last Change:  2011-02-21
+" Last Change:  2012-06-14
 
 " darkneon -- Middling-contrast vim colorscheme with a dark background
-" 
+"
 " Looks bit uglier with some terminal palettes,
 " but is fine on default linux console palette.
 "
@@ -62,6 +62,7 @@ hi DiffText                                            guibg=Red           gui=b
 hi Cursor                        guifg=#000020         guibg=#ffaf38
 hi CursorLine                                          guibg=#261434                                                                                                                          term=underline
 hi CursorColumn                                        guibg=#261434                                                                                                                          term=underline
+hi ColorColumn                                         guibg=#cc3333
 
 hi Comment                       guifg=#ba8eff                                                                           ctermfg=darkred
 hi Constant                      guifg=#ffa0a0                                                                           ctermfg=magenta                         cterm=none
